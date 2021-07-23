@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">StudyleagueApp</string>
+    <string name="bbn_phone_view_behavior" translatable="false" tools:ignore="UnusedResources">com.google.android.material.bottomnavigation.BottomNavigationView</string>
+    <string name="bbn_badgeProvider" translatable="false" tools:ignore="UnusedResources">com.google.android.material.bottomnavigation.BottomNavigationView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
